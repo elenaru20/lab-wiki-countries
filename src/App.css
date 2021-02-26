@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.navBar {
+  background-color: #3e8ff4;
+  height: 5vh;
+  display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.navTextStyle {
+  text-decoration: none;
+  color: white;
+}
+
+.navBox {
+  margin-left: 20px;
+}
